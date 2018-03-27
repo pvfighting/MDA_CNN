@@ -13,16 +13,16 @@ You can check out the other options available to use with:
 	``python AE_train.py --help``
 
 #### Input
-The input files conclude:
-	disease-gene relationship file(.csv file):<br>
+The input files include:<br>
+	>disease-gene relationship file(.csv file)
 	> miRNA-gene relationship file(.csv file)
-	postive samples(.txt file):<br>
+	>postive samples(.txt file):<br>
 	> negative samples(.txt file)
 		
 
 #### Output
-The output files conclude: 
-	disease-miRNA low dimensional representations(.csv file):<br>
+The output files include:<br> 
+	>disease-miRNA low dimensional representations(.csv file)
 	> label for samples(.csv file)
 
 

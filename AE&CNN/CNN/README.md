@@ -13,8 +13,8 @@ You can check out the other options available to use with:
 	``python CNN_train.py --help``
 
 #### Input
-The input files conclude:
-	disease-miRNA low dimensional representations(.csv file):<br>
+The input files include:<br>
+	> disease-miRNA low dimensional representations(.csv file)
 	> label for samples(.csv file)
 		
 
