@@ -14,7 +14,7 @@ You can check out the other options available to use with:
 
 #### Input
 The input files include:<br>
-	> disease-miRNA low dimensional representations(.csv file)
+	> disease-miRNA low dimensional representations(.csv file)<br>
 	> label for samples(.csv file)
 		
 
